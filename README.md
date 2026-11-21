@@ -1,1 +1,1 @@
-Repository for handling all University Lectures
+Repository for OAUTH
